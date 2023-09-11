@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.content {
+    position: relative;
+    height: 50vh;
+}
+
+.iframe1 {
+    position: absolute;
+    top: 0px;
+    right: 30px;
+}
+
+.iframe2 {
+    position: absolute;
+    bottom: 50px;
+    left: 10px;
+}
